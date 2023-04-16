@@ -12,6 +12,8 @@ Bot Şuanda Sadece Windows Cihazlarda Çalışıyor
 
 4 "config.json içerisini editlemeniz lazım 
 
+5 " Proxylerinizi pr.txt nin içerisine atıcaksınız
+
 # Nasıl Yapıcaz
 Python vs kurmak istemiyorum diyenler için Direkmen Youtube.exe yapıp sağlayacağım Lütfen Beklemede kalın 
 
